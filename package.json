@@ -1,0 +1,19 @@
+{
+  "name": "test-playground",
+  "version": "1.0.0",
+  "description": "test files to configure new setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemielzarek/test-playground.git"
+  },
+  "author": "joe.mielzarek@sportngin.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joemielzarek/test-playground/issues"
+  },
+  "homepage": "https://github.com/joemielzarek/test-playground#readme"
+}
